@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/dark_knight/ImageProcessing/TrafficSign",
+  "command": "/usr/bin/c++    -I/home/dark_knight/ImageProcessing/TrafficSign/include -I/home/dark_knight/ImageProcessing/TrafficSign -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv    -std=gnu++11 -o CMakeFiles/traffic_sign.dir/main.cpp.o -c /home/dark_knight/ImageProcessing/TrafficSign/main.cpp",
+  "file": "/home/dark_knight/ImageProcessing/TrafficSign/main.cpp"
+},
+{
+  "directory": "/home/dark_knight/ImageProcessing/TrafficSign",
+  "command": "/usr/bin/c++    -I/home/dark_knight/ImageProcessing/TrafficSign/include -I/home/dark_knight/ImageProcessing/TrafficSign -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv    -std=gnu++11 -o CMakeFiles/tsr.dir/traffic_sign.cpp.o -c /home/dark_knight/ImageProcessing/TrafficSign/traffic_sign.cpp",
+  "file": "/home/dark_knight/ImageProcessing/TrafficSign/traffic_sign.cpp"
+},
+{
+  "directory": "/home/dark_knight/ImageProcessing/TrafficSign",
+  "command": "/usr/bin/c++    -I/home/dark_knight/ImageProcessing/TrafficSign/include -I/home/dark_knight/ImageProcessing/TrafficSign -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv    -std=gnu++11 -o CMakeFiles/test1.dir/test1.cpp.o -c /home/dark_knight/ImageProcessing/TrafficSign/test1.cpp",
+  "file": "/home/dark_knight/ImageProcessing/TrafficSign/test1.cpp"
+}
+]
