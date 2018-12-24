@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtsr.a  CMakeFiles/tsr.dir/traffic_sign.cpp.o
-/usr/bin/ranlib libtsr.a

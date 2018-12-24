@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/dark_knight/ImageProcessing/TrafficSign_ADAS/build",
+  "command": "/usr/bin/c++    -I/home/dark_knight/ImageProcessing/TrafficSign_ADAS/include -I/home/dark_knight/ImageProcessing/TrafficSign_ADAS -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++11 -o CMakeFiles/traffic_sign.dir/src/traffic_sign.cpp.o -c /home/dark_knight/ImageProcessing/TrafficSign_ADAS/src/traffic_sign.cpp",
+  "file": "/home/dark_knight/ImageProcessing/TrafficSign_ADAS/src/traffic_sign.cpp"
+},
+{
+  "directory": "/home/dark_knight/ImageProcessing/TrafficSign_ADAS/build",
+  "command": "/usr/bin/c++    -I/home/dark_knight/ImageProcessing/TrafficSign_ADAS/include -I/home/dark_knight/ImageProcessing/TrafficSign_ADAS -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++11 -o CMakeFiles/traffic_sign.dir/src/main.cpp.o -c /home/dark_knight/ImageProcessing/TrafficSign_ADAS/src/main.cpp",
+  "file": "/home/dark_knight/ImageProcessing/TrafficSign_ADAS/src/main.cpp"
+},
+{
+  "directory": "/home/dark_knight/ImageProcessing/TrafficSign_ADAS/build",
+  "command": "/usr/bin/c++    -I/home/dark_knight/ImageProcessing/TrafficSign_ADAS/include -I/home/dark_knight/ImageProcessing/TrafficSign_ADAS -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++11 -o CMakeFiles/tsr.dir/src/traffic_sign.cpp.o -c /home/dark_knight/ImageProcessing/TrafficSign_ADAS/src/traffic_sign.cpp",
+  "file": "/home/dark_knight/ImageProcessing/TrafficSign_ADAS/src/traffic_sign.cpp"
+},
+{
+  "directory": "/home/dark_knight/ImageProcessing/TrafficSign_ADAS/build",
+  "command": "/usr/bin/c++    -I/home/dark_knight/ImageProcessing/TrafficSign_ADAS/include -I/home/dark_knight/ImageProcessing/TrafficSign_ADAS -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++11 -o CMakeFiles/tsr.dir/src/main.cpp.o -c /home/dark_knight/ImageProcessing/TrafficSign_ADAS/src/main.cpp",
+  "file": "/home/dark_knight/ImageProcessing/TrafficSign_ADAS/src/main.cpp"
+}
+]
