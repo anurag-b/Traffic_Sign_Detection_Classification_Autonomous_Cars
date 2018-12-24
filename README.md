@@ -55,7 +55,7 @@ make
 * Run the demo. The argument of the executable `lanes` is the input video with its full path:
 ```
 cd build
-./lane_detect
+./traffic_sign
 ```
 (The saved output .avi demo video is in the output_video folder)
 
