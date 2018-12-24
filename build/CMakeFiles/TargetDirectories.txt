@@ -1,4 +1,0 @@
-/home/dark_knight/ImageProcessing/TrafficSign_ADAS/build/CMakeFiles/edit_cache.dir
-/home/dark_knight/ImageProcessing/TrafficSign_ADAS/build/CMakeFiles/rebuild_cache.dir
-/home/dark_knight/ImageProcessing/TrafficSign_ADAS/build/CMakeFiles/traffic_sign.dir
-/home/dark_knight/ImageProcessing/TrafficSign_ADAS/build/CMakeFiles/tsr.dir
